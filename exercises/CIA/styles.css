@@ -1,0 +1,26 @@
+#Headline {
+    font-family: Georgia;
+    text-align: center;
+}
+#Headline h1{
+    color: darkgreen;
+}
+p {
+    line-height: 25px;
+}
+a {
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.Uppercase {
+    text-transform: uppercase;
+}
+.floatLeft{
+    float: left;
+    margin-right: 25px;
+}
+ul{
+    list-style-position: inside;
+}

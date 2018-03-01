@@ -1,0 +1,22 @@
+/* selector */
+/* body/styling */
+
+.byClass{
+    color: red
+    background-color: green;
+
+}
+
+#byId
+
+h1{
+    font-family: "Georgia";
+}
+
+p
+
+div
+
+/* style everything */
+
+.parent > child 

@@ -3,8 +3,8 @@
 var fruit = ["banana", "apple", "orange", "watermelon"];  
 var vegetables = ["carrot", "tomato", "pepper", "lettuce"];  
 
- var x= vegetables.shift()
- var x= fruit.pop()
+// var x= vegetables.shift()
+// var x= fruit.pop()
 
  console.log(vegetables);
  console.log(fruit);
@@ -24,7 +24,6 @@ console.log(food);
 
 var removed2 = food.splice(3, 2);
 console.log(food);
-
 food.reverse();
 console.log(food);
 // After every command, console.log() your arrays. A good way to do that is to use:
